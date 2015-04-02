@@ -1,6 +1,6 @@
 ![GODOT](/logo.png)
 
-### 注意! 这不是完整的分支,它只是一些wiki的翻译
+### 注意! 这不是完整的分支,它只是wiki的翻译
 
 ### 介绍
 
@@ -9,7 +9,7 @@ godot是一个功能齐全的,开源的,麻省理工学院许可,游戏引擎。
 ### 关于
 
 Godot 几年前由 Juan Linietsky 和 Ariel Manzur 开发出来.
-被 OKAM Studio(http://www.okamstudio.com)发展.
+被OKAM Studio(http://www.okamstudio.com)发展.
 
 ### 文档
 
