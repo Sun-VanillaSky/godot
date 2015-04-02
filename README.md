@@ -1,26 +1,25 @@
 ![GODOT](/logo.png)
 
-### The Engine
+### 注意! 这不是完整的分支,它只是一些wiki的翻译
 
-Godot is a fully featured, open source, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle.
-The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+### 
+godot是一个功能齐全的,开源的,麻省理工学院许可,游戏引擎。它关注有很好的工具,面向视觉的工作流可以导出到电脑,手机和网络平台,没有麻烦。编辑、语言和api功能丰富,但简单的学习,让你成为高效的在几小时内。
 
-### About
+### 关于
 
-Godot has been developed by Juan Linietsky and Ariel Manzur for several years, and was born as an in-house engine, used to publish several work-for-hire titles.
-Development is sponsored by OKAM Studio (http://www.okamstudio.com).
+Godot 几年前由 Juan Linietsky 和 Ariel Manzur 开发出来.
+被 OKAM Studio(http://www.okamstudio.com)发展.
 
-### Documentation
+### 文档
 
-Documentation has been moved to the [GitHub Wiki](https://github.com/okamstudio/godot/wiki).
+文档在 [GitHub Wiki](https://github.com/okamstudio/godot/wiki).
+(你也可以查看我的翻译版本,并加入我的翻译项目)
 
-### Binary Downloads, Community, etc.
-
-Binary downloads, community, etc. can be found in Godot homepage:
+### 二进制下载、社区等。
 
 http://www.godotengine.org
 
-### Compiling from Source
+### 从源代码编译
 
-Compilation instructions for every platform can be found in the Wiki:
+编译指令为每个平台可以在Wiki中找到:
 https://github.com/okamstudio/godot/wiki/advanced
