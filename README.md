@@ -1,6 +1,7 @@
 ![GODOT](/logo.png)
 
 ### 注意! 这不是完整的分支,它只是wiki的翻译
+![GODOT](/lo)
 
 ### 介绍
 
